@@ -1,3 +1,4 @@
+pip install --upgrade transformers
 import streamlit as st
 from huggingface_hub import InferenceClient
 import time
